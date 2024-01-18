@@ -6,12 +6,16 @@ Since you are here, a poem for you:
 
 <code><i>"""</i></code><br>
 
+<div align="center">
+
 <code><i>When code is buggy and coffee's cold,</i></code><br>
 <code><i>I laugh and say, "I'm getting old!"</i></code><br>
 <code><i>But then I sip, and with a grin,</i></code><br>
 <code><i>I dive back in, determined to win!</i></code>
 
 <code> - Bing with GPT-4, inspired by caffeine and curiosity </code></p>
+
+</div>
 
 <p align="right"><code><i>"""</i></code></p>
 
