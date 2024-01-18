@@ -1,15 +1,19 @@
 ### Hi there 👋
 
-Believe in the magic of coffee!☕
+Believe in the magic of coffee!☕💻
 
-```
-When code is buggy and coffee's cold,
-I laugh and say, "I'm getting old!"
-But then I sip, and with a grin,
-I dive back in, determined to win!
+Since you are here, a poem for you:
 
-- Bing with GPT-4
-```
+<code><i>"""</i></code><br>
+
+<code><i>When code is buggy and coffee's cold,</i></code><br>
+<code><i>I laugh and say, "I'm getting old!"</i></code><br>
+<code><i>But then I sip, and with a grin,</i></code><br>
+<code><i>I dive back in, determined to win!</i></code>
+
+<code> - Bing with GPT-4, inspired by caffeine and curiosity </code></p>
+
+<p align="right"><code><i>"""</i></code></p>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harisankar95&theme=default" alt="GitHub Profile Details of Harisankar95" width="90%">
