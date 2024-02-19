@@ -5,7 +5,7 @@ Believe in the magic of coffee!☕💻
 Since you are here, here is a joke for you:
 
 <div align="center">
-    <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="40%">
+    <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="60%">
 </div>
 
 <div align="center">
