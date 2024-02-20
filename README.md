@@ -4,12 +4,9 @@ Believe in the magic of coffee!☕💻
 
 Since you are here, here is a joke for you:
 
-<div style="display: flex; justify-content: center;">
-    <div style="background-color:#333; color:#fff; padding:10px; border-radius:5px; width: 60%; margin: auto; font-size: 20px;">
-        <p style="color:#FABD2F;"> Why do programmers prefer dark coffee?</p>
-        <p style="color:#90EE90;"> Because light coffee has too many bugs.</p>
-    </div>
-</div>
+> #### Why do programmers prefer dark coffee?
+>
+> Because light coffee has too many bugs.
 
 ---
 
