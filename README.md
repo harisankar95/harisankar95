@@ -18,3 +18,7 @@ Since you are here, here is a joke for you:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harisankar95&theme=dark" alt="GitHub Stats of Harisankar95" width="45%">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harisankar95&theme=dark" alt="Most Used Language by Harisankar95 on GitHub" width="45%">
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true"/>
+</div>
