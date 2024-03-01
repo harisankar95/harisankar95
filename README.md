@@ -20,5 +20,5 @@ Since you are here, here is a joke for you:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&section=footer&reversal=true"/>
 </div>
